@@ -1,2 +1,2 @@
 # Trabalhando-com-arraylist
-Trabalho feito no intuito da matéria de Aedes 2
+Trabalho feito para a disciplina de Aedes 2
